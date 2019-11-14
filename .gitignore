@@ -120,3 +120,6 @@ Thumbs.db
 
 # config file
 config.py
+
+#csv files - all over 100MB
+*.csv
